@@ -19,7 +19,7 @@ Make sure you have Python installed on your system. You can download it from [py
 To clone the repository, run the following command:
 
 ```bash
-git clone https://github.com/yourusername/tk-playground.git
+git clone https://github.com/Ech0TheChimera/tk-playground.git
 cd tk-playground
 ```
 
